@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/SprintGameManager.fsproj": {}
+    "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/SprintGameManager.fsproj": {}
   },
   "projects": {
-    "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/SprintGameManager.fsproj": {
+    "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/SprintGameManager.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/SprintGameManager.fsproj",
+        "projectUniqueName": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/SprintGameManager.fsproj",
         "projectName": "SprintGameManager",
-        "projectPath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/SprintGameManager.fsproj",
+        "projectPath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/SprintGameManager.fsproj",
         "packagesPath": "/Volumes/Hyper/Users/RyB/.nuget/packages/",
-        "outputPath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/obj/",
+        "outputPath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Volumes/Hyper/Users/RyB/.nuget/NuGet/NuGet.Config"

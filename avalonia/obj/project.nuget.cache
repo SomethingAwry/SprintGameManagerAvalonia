@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kI3yZ9BJPME=",
+  "dgSpecHash": "QDQ7dYeqB0M=",
   "success": true,
-  "projectFilePath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/SprintGameManager.fsproj",
+  "projectFilePath": "/Volumes/Hyper/Users/RyB/RiderProjects/SprintGameManager/avalonia/SprintGameManager.fsproj",
   "expectedPackageFiles": [
     "/Volumes/Hyper/Users/RyB/.nuget/packages/avalonia/12.0.1/avalonia.12.0.1.nupkg.sha512",
     "/Volumes/Hyper/Users/RyB/.nuget/packages/avalonia.angle.windows.natives/2.1.25547.20250602/avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",
