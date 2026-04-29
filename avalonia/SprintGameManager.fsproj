@@ -7,6 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="pathlib.fs" />
+    <Compile Include="sys.fs" />
+    <Compile Include="sgm\config.fs" />
+    <Compile Include="sgm\domain.fs" />
+    <Compile Include="sgm\image_ops.fs" />
+    <Compile Include="sgm\io_utils.fs" />
+    <Compile Include="sgm\resources.fs" />
+    <Compile Include="sgm\scanner.fs" />
+    <Compile Include="sgm\sprint_fs.fs" />
+    <Compile Include="sgm\ui\advanced_json_dialog.fs" />
+    <Compile Include="sgm\ui\bulk_json_update_dialog.fs" />
+    <Compile Include="sgm\ui\dialog_state.fs" />
+    <Compile Include="sgm\ui\main_window.fs" />
+    <Compile Include="sgm\ui\overlay_builder_dialog.fs" />
+    <Compile Include="sgm\ui\overlay_cleaner_dialog.fs" />
+    <Compile Include="sgm\ui\settings_dialog.fs" />
+    <Compile Include="sgm\ui\widgets.fs" />
+    <Compile Include="sgm\version.fs" />
+    <Compile Include="sgm\app.fs" />
     <Compile Include="MainWindow.axaml.fs" />
     <Compile Include="App.axaml.fs"/>
     <Compile Include="Program.fs" />
